@@ -1,3 +1,6 @@
+OX target and ox inventory Need
+
+
 Hello let me tell you something about  my first lua script myt_NPCdoctor.  Its simple script with npc doctor that can heal you or revive yourself and buy medicals.  its made for Gabz Pillbox Hospital
 
 
